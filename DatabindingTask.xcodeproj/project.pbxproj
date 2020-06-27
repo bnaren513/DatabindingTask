@@ -15,6 +15,26 @@
 		9A26A05B24A65EF50049DE51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A26A05924A65EF50049DE51 /* LaunchScreen.storyboard */; };
 		9A26A06624A65EF50049DE51 /* DatabindingTaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A26A06524A65EF50049DE51 /* DatabindingTaskTests.swift */; };
 		9A26A07124A65EF50049DE51 /* DatabindingTaskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A26A07024A65EF50049DE51 /* DatabindingTaskUITests.swift */; };
+		9A26A08824A662220049DE51 /* Ubuntu-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A26A07F24A662220049DE51 /* Ubuntu-Italic.ttf */; };
+		9A26A08924A662220049DE51 /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A26A08024A662220049DE51 /* Ubuntu-Bold.ttf */; };
+		9A26A08A24A662220049DE51 /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A26A08124A662220049DE51 /* Ubuntu-Medium.ttf */; };
+		9A26A08B24A662220049DE51 /* UFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9A26A08224A662220049DE51 /* UFL.txt */; };
+		9A26A08C24A662220049DE51 /* Ubuntu-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A26A08324A662220049DE51 /* Ubuntu-MediumItalic.ttf */; };
+		9A26A08D24A662220049DE51 /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A26A08424A662220049DE51 /* Ubuntu-Regular.ttf */; };
+		9A26A08E24A662220049DE51 /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A26A08524A662220049DE51 /* Ubuntu-Light.ttf */; };
+		9A26A08F24A662220049DE51 /* Ubuntu-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A26A08624A662220049DE51 /* Ubuntu-BoldItalic.ttf */; };
+		9A26A09024A662220049DE51 /* Ubuntu-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A26A08724A662220049DE51 /* Ubuntu-LightItalic.ttf */; };
+		9A26A09224A666470049DE51 /* TabbarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A26A09124A666470049DE51 /* TabbarController.swift */; };
+		9A26A09524A66EE30049DE51 /* ServiceManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A26A09424A66EE30049DE51 /* ServiceManger.swift */; };
+		9A26A09824A66F2F0049DE51 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A26A09724A66F2F0049DE51 /* Constants.swift */; };
+		9A4E8B8C24A71A9200275F2F /* CustomTabbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4E8B8B24A71A9200275F2F /* CustomTabbar.swift */; };
+		9A4E8B8E24A7230200275F2F /* YogaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4E8B8D24A7230200275F2F /* YogaViewController.swift */; };
+		9A4E8B9524A726B300275F2F /* YogaImageTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4E8B9424A726B300275F2F /* YogaImageTableViewCell.swift */; };
+		9A4E8B9924A736C000275F2F /* RoundedCornerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4E8B9824A736C000275F2F /* RoundedCornerView.swift */; };
+		9A4E8B9B24A743FC00275F2F /* RatingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4E8B9A24A743FC00275F2F /* RatingTableViewCell.swift */; };
+		9A4E8B9D24A746C100275F2F /* DescriptionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4E8B9C24A746C100275F2F /* DescriptionTableViewCell.swift */; };
+		9A4E8B9F24A74EFE00275F2F /* LocationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4E8B9E24A74EFE00275F2F /* LocationTableViewCell.swift */; };
+		9A4E8BA124A7538000275F2F /* MapTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4E8BA024A7538000275F2F /* MapTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +69,26 @@
 		9A26A06C24A65EF50049DE51 /* DatabindingTaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DatabindingTaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A26A07024A65EF50049DE51 /* DatabindingTaskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabindingTaskUITests.swift; sourceTree = "<group>"; };
 		9A26A07224A65EF50049DE51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A26A07F24A662220049DE51 /* Ubuntu-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Italic.ttf"; sourceTree = "<group>"; };
+		9A26A08024A662220049DE51 /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
+		9A26A08124A662220049DE51 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
+		9A26A08224A662220049DE51 /* UFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UFL.txt; sourceTree = "<group>"; };
+		9A26A08324A662220049DE51 /* Ubuntu-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-MediumItalic.ttf"; sourceTree = "<group>"; };
+		9A26A08424A662220049DE51 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
+		9A26A08524A662220049DE51 /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Light.ttf"; sourceTree = "<group>"; };
+		9A26A08624A662220049DE51 /* Ubuntu-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-BoldItalic.ttf"; sourceTree = "<group>"; };
+		9A26A08724A662220049DE51 /* Ubuntu-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-LightItalic.ttf"; sourceTree = "<group>"; };
+		9A26A09124A666470049DE51 /* TabbarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabbarController.swift; sourceTree = "<group>"; };
+		9A26A09424A66EE30049DE51 /* ServiceManger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceManger.swift; sourceTree = "<group>"; };
+		9A26A09724A66F2F0049DE51 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		9A4E8B8B24A71A9200275F2F /* CustomTabbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabbar.swift; sourceTree = "<group>"; };
+		9A4E8B8D24A7230200275F2F /* YogaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YogaViewController.swift; sourceTree = "<group>"; };
+		9A4E8B9424A726B300275F2F /* YogaImageTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YogaImageTableViewCell.swift; sourceTree = "<group>"; };
+		9A4E8B9824A736C000275F2F /* RoundedCornerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCornerView.swift; sourceTree = "<group>"; };
+		9A4E8B9A24A743FC00275F2F /* RatingTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingTableViewCell.swift; sourceTree = "<group>"; };
+		9A4E8B9C24A746C100275F2F /* DescriptionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DescriptionTableViewCell.swift; sourceTree = "<group>"; };
+		9A4E8B9E24A74EFE00275F2F /* LocationTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationTableViewCell.swift; sourceTree = "<group>"; };
+		9A4E8BA024A7538000275F2F /* MapTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +139,21 @@
 		9A26A04D24A65EF40049DE51 /* DatabindingTask */ = {
 			isa = PBXGroup;
 			children = (
+				9A4E8B9324A723FC00275F2F /* Cells */,
+				9A26A09624A66F190049DE51 /* Constants */,
+				9A26A09324A66EB30049DE51 /* ServiceManager */,
+				9A26A07E24A661EA0049DE51 /* Fonts */,
 				9A26A04E24A65EF40049DE51 /* AppDelegate.swift */,
 				9A26A05024A65EF40049DE51 /* SceneDelegate.swift */,
 				9A26A05224A65EF40049DE51 /* ViewController.swift */,
+				9A26A09124A666470049DE51 /* TabbarController.swift */,
 				9A26A05424A65EF40049DE51 /* Main.storyboard */,
 				9A26A05724A65EF50049DE51 /* Assets.xcassets */,
 				9A26A05924A65EF50049DE51 /* LaunchScreen.storyboard */,
 				9A26A05C24A65EF50049DE51 /* Info.plist */,
+				9A4E8B8B24A71A9200275F2F /* CustomTabbar.swift */,
+				9A4E8B8D24A7230200275F2F /* YogaViewController.swift */,
+				9A4E8B9824A736C000275F2F /* RoundedCornerView.swift */,
 			);
 			path = DatabindingTask;
 			sourceTree = "<group>";
@@ -126,6 +174,50 @@
 				9A26A07224A65EF50049DE51 /* Info.plist */,
 			);
 			path = DatabindingTaskUITests;
+			sourceTree = "<group>";
+		};
+		9A26A07E24A661EA0049DE51 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				9A26A08024A662220049DE51 /* Ubuntu-Bold.ttf */,
+				9A26A08624A662220049DE51 /* Ubuntu-BoldItalic.ttf */,
+				9A26A07F24A662220049DE51 /* Ubuntu-Italic.ttf */,
+				9A26A08524A662220049DE51 /* Ubuntu-Light.ttf */,
+				9A26A08724A662220049DE51 /* Ubuntu-LightItalic.ttf */,
+				9A26A08124A662220049DE51 /* Ubuntu-Medium.ttf */,
+				9A26A08324A662220049DE51 /* Ubuntu-MediumItalic.ttf */,
+				9A26A08424A662220049DE51 /* Ubuntu-Regular.ttf */,
+				9A26A08224A662220049DE51 /* UFL.txt */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		9A26A09324A66EB30049DE51 /* ServiceManager */ = {
+			isa = PBXGroup;
+			children = (
+				9A26A09424A66EE30049DE51 /* ServiceManger.swift */,
+			);
+			path = ServiceManager;
+			sourceTree = "<group>";
+		};
+		9A26A09624A66F190049DE51 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				9A26A09724A66F2F0049DE51 /* Constants.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		9A4E8B9324A723FC00275F2F /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				9A4E8B9424A726B300275F2F /* YogaImageTableViewCell.swift */,
+				9A4E8B9A24A743FC00275F2F /* RatingTableViewCell.swift */,
+				9A4E8B9C24A746C100275F2F /* DescriptionTableViewCell.swift */,
+				9A4E8B9E24A74EFE00275F2F /* LocationTableViewCell.swift */,
+				9A4E8BA024A7538000275F2F /* MapTableViewCell.swift */,
+			);
+			path = Cells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +324,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A26A08924A662220049DE51 /* Ubuntu-Bold.ttf in Resources */,
 				9A26A05B24A65EF50049DE51 /* LaunchScreen.storyboard in Resources */,
+				9A26A08E24A662220049DE51 /* Ubuntu-Light.ttf in Resources */,
+				9A26A08C24A662220049DE51 /* Ubuntu-MediumItalic.ttf in Resources */,
+				9A26A09024A662220049DE51 /* Ubuntu-LightItalic.ttf in Resources */,
+				9A26A08A24A662220049DE51 /* Ubuntu-Medium.ttf in Resources */,
 				9A26A05824A65EF50049DE51 /* Assets.xcassets in Resources */,
+				9A26A08B24A662220049DE51 /* UFL.txt in Resources */,
+				9A26A08F24A662220049DE51 /* Ubuntu-BoldItalic.ttf in Resources */,
+				9A26A08D24A662220049DE51 /* Ubuntu-Regular.ttf in Resources */,
 				9A26A05624A65EF40049DE51 /* Main.storyboard in Resources */,
+				9A26A08824A662220049DE51 /* Ubuntu-Italic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,8 +361,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A26A05324A65EF40049DE51 /* ViewController.swift in Sources */,
+				9A26A09224A666470049DE51 /* TabbarController.swift in Sources */,
+				9A4E8B9524A726B300275F2F /* YogaImageTableViewCell.swift in Sources */,
+				9A4E8B8E24A7230200275F2F /* YogaViewController.swift in Sources */,
+				9A4E8B9D24A746C100275F2F /* DescriptionTableViewCell.swift in Sources */,
+				9A4E8B9F24A74EFE00275F2F /* LocationTableViewCell.swift in Sources */,
+				9A4E8B8C24A71A9200275F2F /* CustomTabbar.swift in Sources */,
+				9A4E8B9924A736C000275F2F /* RoundedCornerView.swift in Sources */,
 				9A26A04F24A65EF40049DE51 /* AppDelegate.swift in Sources */,
 				9A26A05124A65EF40049DE51 /* SceneDelegate.swift in Sources */,
+				9A4E8BA124A7538000275F2F /* MapTableViewCell.swift in Sources */,
+				9A26A09524A66EE30049DE51 /* ServiceManger.swift in Sources */,
+				9A4E8B9B24A743FC00275F2F /* RatingTableViewCell.swift in Sources */,
+				9A26A09824A66F2F0049DE51 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

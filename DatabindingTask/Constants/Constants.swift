@@ -7,3 +7,14 @@
 //
 
 import Foundation
+
+
+
+struct Constants {
+    
+    struct Base {
+       
+        static let BASE_URL = "https://dl.dropboxusercontent.com/s/2iodh4vg0eortkl/facts.json"//Development
+        
+    }
+}
